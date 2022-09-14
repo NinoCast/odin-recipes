@@ -1,0 +1,36 @@
+div {
+    background-color: black;
+    
+}
+
+h1 {
+    text-align: center;
+    background-color: black;
+    color: red;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#description {
+    text-align: center;
+    font-size: 24px;
+    color: peru;
+    background-color: black;
+    
+}
+
+h2 {
+    color:red;
+    text-align: center;
+    font-size: 32px;
+
+}
+
+ul,li  {
+    color: peru;
+    text-align: center;
+}
